@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    border-color: black;
+    border-radius: 10%;
+    text-align: center;
+    padding: 15px;
+}
+
+.mainsection {
+    margin-left: 40px;
+    margin-right: 40px;
+    max-width: 75%;
+  
+    align-self: center;
+    text-align:;
+}
+
+.mainsection1 {
+    margin-left: 40px;
+    margin-right: 40px;
+    max-width: 75%;
+  
+    align-self: center;
+    flex-direction: column;
+
+}
+
+.subtext {
+    align-self: left;
+}
