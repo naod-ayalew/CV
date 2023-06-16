@@ -8,7 +8,7 @@ body {
 
 .header {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgba(3, 12, 83, 0.977);
+    background-color: rgba(3,s 12, 83, 0.977);
     width: 100%;
     color: rgb(254, 247, 247);
     
@@ -22,7 +22,13 @@ body {
     margin-right: 40px;
     max-width: 800px;
     text-align: left;
- 
+    border-style: solid;
+    border-color: black;
+     
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: antiquewhite;
+    padding: 8px;
     
 }
 
