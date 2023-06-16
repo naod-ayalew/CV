@@ -2,15 +2,19 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: rgb(254, 247, 247);
+    margin: 0;
 }
 
 .header {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: antiquewhite;
-    border-color: black;
-    border-radius: 10%;
+    background-color: rgba(3, 12, 83, 0.977);
+    width: 100%;
+    color: rgb(254, 247, 247);
+    
     text-align: center;
     padding: 15px;
+    
 }
 
 .subsections {
@@ -18,7 +22,7 @@ body {
     margin-right: 40px;
     max-width: 800px;
     text-align: left;
-    
+ 
     
 }
 
