@@ -11,7 +11,8 @@ body {
     background-color: navy;
     width: 100%;
     color: rgb(254, 247, 247);
-    
+    display: flex;
+    flex-direction: row;
     text-align: center;
     padding: 15px;
     
