@@ -2,53 +2,55 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(254, 247, 247);
+    background-color: #EBE9EA;
     margin: 0;
 }
 
+.wrapper {
+    width: 100%;
+    margin: 0 0 0 0;
+}
 .header {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(148, 200, 181);
     width: 100%;
-    color: rgb(254, 247, 247);
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    text-align: center;
-    padding: 15px;
-    
+    align-items: center;
+    padding: 15px;   
 }
 
-.subsections {
-    margin-left: 40px;
-    margin-right: 40px;
-    max-width: 800px;
-    text-align: left;
-    border-style: solid;
-    border-color: black;
-     
-    margin-top: 15px;
-    margin-bottom: 15px;
-    background-color: antiquewhite;
-    padding: 8px;
-    
-}
-
-.resumebody {
+.topnav {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
+}
+.name a, .topnav a { 
+
+    color: #21343B;
+    text-align: center;
+    padding: 24px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
-a:link {
-    color: black;
+.spacer {
+    width: 15em;
 }
-a:link {
-    text-decoration: none;
-    color: black;
-  }
-  
-  a:visited {
-    text-decoration: none;
-    color: black;
-  }
+
+.divider {
+    height: 5em;
+    width: 100%;
+}
+
+.intro {
+    width: 100%;
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
 

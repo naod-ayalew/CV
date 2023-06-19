@@ -1,0 +1,91 @@
+<body>
+  <div class="header">
+    <div class="links">
+      <a href="index.html"> home page pls </a>
+    </div>
+    <div class="links">
+      <a  href="https://github.com/naod-ayalew"><img src="github.svg"></a>
+    </div>
+    <div class="links">
+      <a href="portfolio.html">Portfolio</a>
+    </div>  
+    <div class="links">
+      <a href="resume.html"> CV </a>
+    </div>
+
+  </div> 
+  
+  <div class="intro">
+    <img src="mars.jpg">
+  </div>
+  
+  
+  <div class="resumebody">
+    <div class="subsections">
+      <div class="subtext">
+        <h2>About Me </h2>
+      <h3> Professional Goals</h3>
+      <p> My professional and personal experiences are varied. I've tried my hand in many different fields. Through much exploration and trial and error,
+        I have landed on a career in IT. I am drawn to the mixture of working with tech, problem solving, and just fixing things. I know
+        the work will be intellectually stimliating and challenging, and I know that there will be opportunities for growth. I have spent
+        much of 2023 studying IT, and it has been rewarding. I will be attending Western Governors University, and my goal is to complete
+        a Bachelor's in IT by next summer.</p>
+       <p>As I grow in the field, I will have a better idea of how to specialize. What appeals to me most at this point is working with databases.
+        To that end, I plan to complete trainings and courses centered on SQL, PowerBI, and more. I will also study for the CCNA, Security+, and LPIC
+        Certificatons.
+       </p>  
+       
+       <h3>Personal Goals</h3>
+       <p>I am committed to personal growth and artistic expression. In particliar, I have focused on singing. I've taken classical singing lessons
+        and have become a much better singer. Recently, I have made great strides in creating my own music and arrangements. Over the next year, 
+        I hope to write an album's worth of songs. I also hope to find inspiration to write poetry. I used to be great at it (I even won an award
+        from my university's literary journal)
+       </p>
+      </div>
+    </div> 
+
+    <div class="subsections">
+      <h2>Education</h2>
+    <h3> B.S. Information Technology from Western Governors University</h3>
+    <p> I am enrolling at Western Governors University beginning Jliy 1, 2023, I expect to finish the degree by June 2024</p>
+    <p> Relevant Courses:  Web Development, Network Security, ITIL, Linux Foundations, Cloud Essentials, UI Design</p>
+    <h2>Certifications</h2>  
+ 
+      <li>Network+</li>
+      <li>A+</li> 
+      <li>Google IT Support Professional</li>
+      <li>Professional Scrum Master I</li>
+      <li>Google Project Management </li>
+      <li>Occupational First Aid Level 3 </li>
+
+      
+    </div> 
+
+    <div class="footer">
+      <h3>Contact me at: nayimam@gmail.com</h3>
+    </div>
+
+
+
+<div class="subsections">
+        <h2>Work Experience</h2>
+          <p>First Aid Attendant & Labourer  <em>09/2021 - Present</em></p>
+          <p> I received a Level 3 First Aid certificate in Sep 2021. I have worked at factories and construction sites across the lower mainland. 
+              This work has been greatly rewarding. I trliy enjoy helping people when they are hurt, and when they come to me for care, even 
+              for minor injuries. As a labourer, I do the grunt work like: moving equipment and tools, cleaning the worksite, digging in the dirt,
+              and other tasks as needed. Some of the more interesting things I did were concrete mixing, light carpentry, using Bondo, and getting 
+              my hands on some power tools.
+          </p>
+
+          <p>Concierge <em>08/2020 - 07/2021</em></p>
+          <p> I worked at the front desk for a 400+ unit strata. I was the first point of contact for anything and everything 
+            that went on in the building. Some of the major duties were: entrance and egress security, coordinating move-in and move-outs, 
+            collecting fees and fines, parking enforcement, patrols, package reception, and coordinating maintenance work with
+            elevator techs, cleaning staff, and plumbers. </p>
+
+            <p>Financial Aid Counselor <em>08/2020 - 07/2021</em></p>
+            <p> I worked at the front desk for a 400+ unit strata. I was the first point of contact for anything and everything 
+              that went on in the building. Some of the major duties were: entrance and egress security, coordinating move-in and move-outs, 
+              collecting fees and fines, parking enforcement, patrols, package reception, and coordinating maintenance work with
+              elevator techs, cleaning staff, and plumbers. </p>
+      </div> 
