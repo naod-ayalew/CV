@@ -52,5 +52,16 @@ body {
     display: flex;
     flex-direction: row;
     flex: auto;
+    padding: 15px;
+     
 }
 
+#selfpic {
+    width: 300px;
+    height: 200px;
+}
+
+#basepic {
+    width: 100%;
+    height: 30%;
+}
