@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+
     align-items: center;
     background-color: #EBE9EA;
     margin: 0;
@@ -15,14 +16,17 @@ body {
     width: 100%;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    padding: 15px;   
+    justify-content: center;
+    padding-left: 20px;   
+    padding-right: 20px;
 }
 
 .topnav {
     display: flex;
     flex-direction: row;
     align-items: center;
+    padding-left: 20px;   
+    padding-right: 20px;
 }
 .name a, .topnav a { 
 
@@ -40,36 +44,61 @@ body {
 }
 
 .divider {
-    height: 5em;
+    height: 1 em;
     width: 100%;
 }
 
-.intro {
-    width: 100%;
-}
-
-.about {
+.section1 {
     display: flex;
     flex-direction: row;
     flex: auto;
-    
+   
     padding: 15px;
     justify-content: space-around;
     margin: 20px;
+    flex-wrap: wrap;
      
 }
 
-.subabout {
+.section2 {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+   
+    padding: 15px;
+    justify-content: space-around;
+    margin: 20px;
+    flex-wrap: wrap-reverse;
+     
+}
+
+.subsection {
     padding: 10px;
     margin: 20px;
+    flex: 1; 
+    min-width: 300px;
+    min-height: 200px;
+    max-width: 600px;
+    text-align: center;
+    text-justify: center;
+}
+ 
+
+#box {
+    max-width: 100%;
+    min-width: 300px;
+    min-height: 200px;
+    height: auto;
 }
 
-#selfpic {
-    width: 600px;
-    height: 400px;
+/*
+
+img {
+
+    height: auto;
+    max-width: 100%;
+    min-width: 200px;
+    
 }
 
-#basepic {
-    width: 100%;
-    height: 30%;
-}
+*/
