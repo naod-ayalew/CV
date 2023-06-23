@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-
+    font-family: 'Palatino';
     align-items: center;
     background-color: #EBE9EA;
     margin: 0;
@@ -12,8 +12,8 @@ body {
     margin: 0 0 0 0;
 }
 .header {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 100%;
+    font-family: 'Palatino';
+    
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -28,13 +28,17 @@ body {
     padding-left: 20px;   
     padding-right: 20px;
 }
+
+#name {
+    width: 18em;
+}
 .name a, .topnav a { 
 
     color: #21343B;
-    text-align: center;
+     
     padding: 24px 16px;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 24px;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -78,9 +82,8 @@ body {
     flex: 1; 
     min-width: 300px;
     min-height: 200px;
-    max-width: 600px;
-    text-align: center;
-    text-justify: center;
+    max-width: 500px;
+    
 }
  
 
