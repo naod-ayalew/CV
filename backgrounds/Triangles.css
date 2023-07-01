@@ -1,3 +1,16 @@
+@font-face {
+    font-family: Archivo;
+    src: url("ArchivoNarrow-Regular.otf") format("opentype");
+}
+
+
+@font-face {
+    font-family: Archivo;
+    font-weight: bold;
+    src: url("ArchivoNarrow-Bold.otf") format("opentype");
+}
+
+
 body {
     margin: 0;
     background-color: #6223d2;
@@ -474,4 +487,16 @@ body {
 }
 .shape:nth-child(60) {
     transform: translate(-50%, -125%);
+}
+
+
+.wrapper {
+    position: relative;
+    z-index: -1;
+    background-color: white;
+    font-family: Archivo;
+    font-size: 30px;
+    width: 10%;
+    margin: 200px;
+    
 }
